@@ -272,10 +272,10 @@
     font-size: 35px;
     margin-top: 30px;
     text-align: center;
-    color: black;
+    color: #000;
 } 
 .seribro__text{
-    color: black;
+    color: #000;
     font-size: 20px;
     margin-top: 15px;
     font-family: "advent-pro" ,sans-serif;
@@ -315,7 +315,7 @@
     text-align: center;
 }
 .slayder__title{
-    color: black;
+    color: #000;
     font-size: 35px;
     margin-top: 35px;
     font-family: "advent-pro" ,sans-serif;
@@ -330,7 +330,7 @@
     align-items: center;
 }
 .blue__title{
-    color: black;
+    color:#000;
     font-size: 40px;
     font-family: "advent-pro" ,sans-serif;
     text-align: center;
@@ -340,7 +340,7 @@
     width: 2px;
 }
 .blue__text{
-    color: black;
+    color: #000;
     font-size: 20px;
     margin-top: 15px;
     font-family: "advent-pro" ,sans-serif;
