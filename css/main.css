@@ -139,22 +139,22 @@
 }
 .hero__btn{
     font-family: "advent-pro" ,sans-serif;
-    border-radius: 5px;
+    border-radius: 50px;
     border: none;
     margin-left: 20px;
     line-height: 36px;
     text-align: left;  
     padding: 5px 40px;
-    color: #FFFF;
+    color: red;
     font-size: 15px;
     background:transparent;
+    border: 1px solid red;
     margin-top: 70px;
 }
 .hero__btn:hover{
    background: red;
    transition: 0.5s;
    color: #FFFF;
-   border-radius: 5px;
    transform: scale(1.1);
 }
 
