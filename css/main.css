@@ -154,7 +154,7 @@
 .hero__btn:hover{
    background: rgb(239, 5, 5);
    transition: 0.5s;
-   color: #FFFF;
+   color: #f7f4f4;
    transform: scale(1.1);
 }
 
