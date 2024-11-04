@@ -148,7 +148,7 @@
     color: rgb(253, 16, 16);
     font-size: 15px;
     background:transparent;
-    border: 1px solid red;
+    border: 1px solid rgb(250, 16, 16);
     margin-top: 70px;
 }
 .hero__btn:hover{
