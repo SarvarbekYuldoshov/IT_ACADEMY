@@ -182,7 +182,7 @@
     width: 400px;
     height: 70px;
     font-size: 30px;
-    color: red;
+    color: rgb(251, 16, 16);
 }
 .hover__text{
     font-family: "advent-pro" ,sans-serif;
