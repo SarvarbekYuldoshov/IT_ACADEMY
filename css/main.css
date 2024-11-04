@@ -152,7 +152,7 @@
     margin-top: 70px;
 }
 .hero__btn:hover{
-   background: red;
+   background: rgb(239, 5, 5);
    transition: 0.5s;
    color: #FFFF;
    transform: scale(1.1);
