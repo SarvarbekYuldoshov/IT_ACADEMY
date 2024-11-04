@@ -85,7 +85,7 @@
 }
 .header__link:hover::after {
     transform: scaleX(1); 
-    background-color:red; 
+    background-color:rgb(253, 15, 15); 
 }
 .header__link:hover{
     transform: scale(1.1);
