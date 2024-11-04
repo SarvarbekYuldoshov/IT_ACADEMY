@@ -200,7 +200,7 @@
 .menu__item{
     width: 300px;
     height: 400px;
-    border: 3px solid red;
+    border: 3px solid rgb(255, 18, 18);
     margin: 40px;
     box-shadow: 5px 5px 5px 4px red;
     border-radius: 15px;
