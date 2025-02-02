@@ -47,7 +47,7 @@
     top: 0;
     left: 0;
     right: 0;
-    box-shadow: 0px 0px 8px  rgb(126, 125, 125);
+    box-shadow: 0px 0px 8px  rgb(118, 117, 117);
     background-color: rgb(254, 247, 247);
     z-index: 999;
 }
@@ -202,7 +202,7 @@
     height: 400px;
     border: 3px solid rgb(255, 18, 18);
     margin: 40px;
-    box-shadow: 5px 5px 5px 4px rgb(248, 5, 5);
+    box-shadow: 5px 5px 5px 4px rgb(212, 8, 8);
     border-radius: 15px;
 }
 .menu__item:hover{
