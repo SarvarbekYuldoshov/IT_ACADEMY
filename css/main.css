@@ -306,7 +306,7 @@
 .seribro__btn:hover{
    background: rgb(255, 0, 0);
    transition: 0.5s;
-   color: #FFFF;
+   color: #ffe2e2;
    border-radius: 5px;
    transform: scale(1.1);
 }
