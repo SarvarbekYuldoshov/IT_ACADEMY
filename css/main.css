@@ -230,7 +230,7 @@
     margin-top: 20px;
 }
 .menu__btn:hover{
-   background: red;
+   background: rgb(255, 1, 1);
    transition: 0.5s;
    color: #FFFF;
    border-radius: 5px;
