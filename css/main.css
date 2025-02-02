@@ -232,7 +232,7 @@
 .menu__btn:hover{
    background: rgb(255, 1, 1);
    transition: 0.5s;
-   color: #FFFF;
+   color: #ffffff;
    border-radius: 5px;
    transform: scale(1.1);
 }
