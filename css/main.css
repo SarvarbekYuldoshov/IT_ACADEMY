@@ -304,7 +304,7 @@
     margin-top: 70px;
 }
 .seribro__btn:hover{
-   background: red;
+   background: rgb(255, 0, 0);
    transition: 0.5s;
    color: #FFFF;
    border-radius: 5px;
