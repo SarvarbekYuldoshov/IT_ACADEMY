@@ -91,7 +91,7 @@
 }
 .header__link:hover{
     transform: scale(1.1);
-    color: rgb(245, 20, 20);
+    color: rgb(245, 0, 0);
 }
 .header__btn{
     font-family: "advent-pro" ,sans-serif;
