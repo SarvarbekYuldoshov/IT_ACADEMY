@@ -109,7 +109,7 @@
 .header__btn:hover{
    background: rgb(230, 1, 1);
    transition: 0.5s;
-   color: #fdf3f3;
+   color: #ffffff;
    border-radius: 30px;
    transform: scale(1.1);
 }
